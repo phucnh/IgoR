@@ -25,4 +25,4 @@ Igor includes 2 components: HTML5 Mobile apps built in Sencha framework and Serv
 * Server: Download package (w2p) and install in web2py framework
 * Web: Clone and viewing via local web server
 
-           git clone https://github.com/hieulq/IgoR.git
+           git clone https://github.com/phucnh/IgoR.git
